@@ -8,7 +8,6 @@
 
 OpenResearch is a Web3-powered scientific publishing platform that breaks traditional paywall monopolies by providing free, permanent access to academic research. Built on distributed storage networks and blockchain technology, it creates an immutable, community-governed repository for the world's scientific knowledge.
 
-**Project Score:** 8.5/10  
 **Category:** Data Market / Decentralized Science (DeSci)  
 **DePIN Fit:** Medium - Focuses on data storage and preservation with limited physical infrastructure requirements
 
@@ -104,15 +103,15 @@ OpenResearch addresses critical challenges in academic publishing:
 
 ## Getting Started
 
-*[Project deployment and usage instructions would go here]*
+*[Project deployment and usage instructions]*
 
 ## Contributing
 
-*[Contribution guidelines would go here]*
+*[Contribution guidelines]*
 
 ## License
 
-*[License information would go here]*
+*[License information]*
 
 ---
 
